@@ -1,0 +1,17 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# IDE or editor files (e.g., for VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Other
+*.log
+*.bak
+
